@@ -1,5 +1,5 @@
 # ZICS
-This is an application for solving steady-state stochastic netowrks. It is standalone Windows application that can also be run through Matlab for non-Windows users. 
+This is an application for solving steady-state stochastic netowrks. It is a standalone Windows application that can also be run through Matlab for non-Windows users. 
 
 For information about how to use the application please read the Manual.pdf.
 
