@@ -3,7 +3,9 @@ This is an application for solving steady-state stochastic netowrks. It is a sta
 
 For information about how to use the application please read the Manual.pdf.
 
-The application file for the Windows standalone application is called and can be found in the "Application" folder. To install it, download the ZICS_installer.exe file and double click it. Folow the instructions; the installation my also require to downlod for free the Matlab Runtime R2017a.
+The application file for the Windows standalone application can be found in the "Application" folder. The installation requires to downlod for free the Matlab Runtime R2017a; the Matlab Runitime can be found here http://www.mathworks.com/products/compiler/mcr/index.html. Please follow the instructions to install the Matlab Runitime. After the the Matlab Runitime installation is complete, the ZICS application can be used through the ZICS.exe file and double click it. Follow the instructions. 
+
+Alternatively, the complete Windows standalone application installer can be found here: https://drive.google.com/file/d/1AIJHIsBXBaFo8z1IN231p1AXmIaxaymU/view?usp=sharing
 
 For non-Windows users, the application can be run through Matlab 2016b or later. To do so, please donwload the zi_closure_scheme.mlapp from the "Application" folder and open it from Matlab's interface.
 
